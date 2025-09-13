@@ -1,0 +1,15 @@
+目的: このIssueはリポジトリを7日後に削除するためのスケジュールと手順を記録します。
+
+チェックリスト:
+- [ ] README 追記 PR をマージ (関連PR: https://github.com/katoutomohiro/jyuushin-care-app/pull/2, https://github.com/katoutomohiro/jyuushin-care-app/pull/3)
+- [ ] リポジトリを Archive (Settings → Danger Zone → Archive)
+- [ ] 7日経過後、@katoutomohiro の最終確認
+- [ ] 削除実行 (Settings → Danger Zone → Delete this repository)
+
+操作手順（参考）:
+押すべきボタン：katoutomohiro/jyuushin-care-app → Settings → Danger Zone → Archive
+gh コマンド例（参考）:
+- アーカイブ: gh repo edit katoutomohiro/jyuushin-care-app --archived
+- 削除（最終承認後）: gh repo delete katoutomohiro/jyuushin-care-app --confirm
+
+備考: このIssueはPR本文にリンクを貼るために作成されました。
