@@ -1,3 +1,5 @@
+[⚠️ 非推奨] このリポジトリは非推奨です。開発は katoutomohiro/v0-git-hub-project-soul-care-system に集約しています: https://github.com/katoutomohiro/v0-git-hub-project-soul-care-system
+
 # 重心ケアアプリ (Jyushin Care App)
 
 重症心身障害児者の生活介護と重心型放課後デイサービス向けの包括的なケア管理アプリケーションです。
